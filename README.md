@@ -33,28 +33,29 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-yellow)
 ![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-black)
 
----
-
-## 📊 GitHub Stats
-![Anu0shree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anu0shree&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anu0shree&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anu0shree&layout=compact&theme=dark)
 
 ---
 
-## 📂 Featured Projects
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Anu0shree&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Anu0shree&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Anu0shree&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+## 📂 Featured Project
+
 ### 🔹 [Cloud DevOps Dashboard](https://github.com/Anu0shree/cloud-devops-dashboard)
-Spring Boot + AWS + Terraform + Ansible + Docker + Prometheus + Grafana  
-- Provisioned AWS infra with Terraform (VPC, EC2, Security Groups).  
-- Automated deployment with Ansible.  
-- Containerized app with Docker.  
-- Monitoring via Prometheus & Grafana.  
 
-### 🔹 [Docker Samples](https://github.com/Anu0shree/docker)
-Hands‑on Dockerfiles and containerization experiments.
+End-to-end DevOps project using Spring Boot, AWS, Terraform, Ansible, Docker, GitHub Actions, Prometheus, and Grafana.
 
-### 🔹 [Jenkins CI/CD](https://github.com/Anu0shree/jenkins)
-Pipeline automation examples for Java applications.
+- Provisioned AWS infrastructure using Terraform.
+- Configured EC2 using Ansible.
+- Containerized and deployed the application using Docker.
+- Implemented GitHub Actions CI/CD with Docker Hub.
+- Added Actuator health and Prometheus metrics.
+- Visualized application and infrastructure metrics using Grafana.
+- Implemented Git-SHA image tagging and deployment concurrency controls to prevent stale deployments. 
 
 ---
 
