@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anushree Venkatraju
 
-💻 **Cloud & DevOps Engineer | Java Developer | AWS Certified Cloud Practitioner **
+💻 **Cloud & DevOps Engineer | Java Developer | AWS Certified Cloud Practitioner**
 
 ---
 
